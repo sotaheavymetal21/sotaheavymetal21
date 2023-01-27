@@ -3,6 +3,21 @@
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=6&i=python,fastapi,django,linux,mysql,nginx,docker,git,github,githubactions,aws,vscode"/>
 
+<p align="left">
+  <a href="https://github.com/sotaheavymetal21/sotaheavymetal21/">
+    <img src="https://komarev.com/ghpvc/?username=sotaheavymetal21" alt="sotaheavymetal21"/>
+  </a>
+  <a href="https://github.com/sotaheavymetal21">
+    <img height="20" src="https://img.shields.io/github/followers/sotaheavymetal21?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+<img
+  src="https://github.com/sotaheavymetal21/sotaheavymetal21/blob/main/images/stat.svg"
+  alt="sotaheavymetal21 WakaTime Activity"
+/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotaheavymetal21)](https://github.com/anuraghazra/github-readme-stats)
 ## My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/sotaheavymetal21/posts.svg)](http://qiita.com/sotaheavymetal21)
 
@@ -33,5 +48,5 @@
 [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sotaheavymetal21&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=sotaheavymetal21&theme=tokyonightk&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
