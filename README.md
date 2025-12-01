@@ -1,23 +1,69 @@
-<h1 align="center">Hi 👋, I'm sotaheavymetal21!</h1>
-<h3 align="center">A passionate server side developer from Japan🇯🇵🐰</h3>
+<div align="center">
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/sotaheavymetal21/posts.svg)](http://qiita.com/sotaheavymetal21)
+# 🚀 sotaheavymetal21 | Server-side & AWS Engineer
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sotaheavymetal21/contributions.svg)](http://qiita.com/sotaheavymetal21)
+[![Qiita Posts](https://qiita-badge.apiapi.app/s/sotaheavymetal21/posts.svg)](http://qiita.com/sotaheavymetal21)
+[![Profile Views](https://komarev.com/ghpvc/?username=sotaheavymetal21&color=blueviolet)](https://github.com/sotaheavymetal21)
 
-<a href="https://github.com/sotaheavymetal21/sotaheavymetal21/"><img src="https://komarev.com/ghpvc/?username=sotaheavymetal21" alt="sotaheavymetal21"/></a><a href="https://github.com/sotaheavymetal21"><img height="20" src="https://img.shields.io/github/followers/sotaheavymetal21?label=follow&logo=github&style=flat" /></a>
+</div>
 
-## My Skills:
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=6&i=python,fastapi,django,linux,mysql,nginx,docker,git,github,githubactions,aws,vscode"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+## 🛠️ Tech Stack
 
-## Skills to want to learn
+**Backend:** Python • Go • Django • FastAPI • Gin  
+**Frontend:** React • Next.js • TypeScript  
+**Cloud & IaC:** AWS • CloudFormation • Docker  
+**Databases:** MySQL • PostgreSQL • MongoDB • OpenSearch  
+**DevOps:** GitHub Actions • Nginx • CI/CD  
+**Tools:** Cursor • Postman • DBeaver • WezTerm • Comet • Notion
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,go,django,fastapi,aws,docker,linux,mysql" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,githubactions,nginx,react,nextjs" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=typescript,notion,postman,vscode" alt="tech stack" />
+</p>
+
+🔐 Implementing SSO/MFA & SaaS governance at scale  
+☁️ AWS Operations & IaC with CloudFormation | Pursuing professional certs  
+📝 Active technical writer on Qiita (Python, Go, AWS, Certification Guides)
+
+## 📜 Certifications
+
+**AWS:** SCS • SAA • DVA • SOA  
+**IPA:** AP • FE • Information Security Management
+
+## 📊 GitHub Stats
 
 
-[![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sotaheavymetal21&theme=tokyonight&hide_border=true" width="500"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sotaheavymetal21&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotaheavymetal21)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sotaheavymetal21&theme=tokyo-night&hide_border=true&area=true" width="800"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotaheavymetal21&theme=tokyonight" width="800"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sotaheavymetal21&theme=tokyonight&utcOffset=9" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sotaheavymetal21&theme=tokyonight" width="400"/>
+</p>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sotaheavymetal21&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<div align="center">
+
+**🇯🇵 Based in Shiga, Japan | ♨️ Hot spring enthusiast**
+
+</div>
