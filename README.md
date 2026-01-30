@@ -72,14 +72,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
   </p>
 
-## 🏙️ GitHub Skyline
-
-<p align="center">
-<a href="https://skyline.github.com/sotaheavymetal21/2024">
-<img src="https://img.shields.io/badge/View%20My%202024%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   </p>
