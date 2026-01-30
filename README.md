@@ -12,12 +12,12 @@
 
   ## 🛠️ Tech Stack
 
-**Backend:** Python • Go • Django • FastAPI • Gin  
-**Frontend（Learning）:** React • Next.js • TypeScript  
-**Cloud & IaC:** AWS • CloudFormation • Docker  
+**Backend:** Python • Go • Django REST Framework • FastAPI • Gin  
+**Frontend（Learning）:** TypeScript • React • Next.js  
+**Cloud:** AWS • CloudFormation  
 **Databases:** MySQL • PostgreSQL • MongoDB • OpenSearch  
-**DevOps:** GitHub Actions • Nginx • CI/CD  
-**Other:** Claude • Claude Code • Cursor • Comet • NotebookLM • Gemini
+**DevOps:** Docker • GitHub Actions • Nginx • CI/CD  
+**AI & Tools:** Claude • Gemini • Claude Code • Cursor • NotebookLM • Comet
 
   <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,aws,docker,linux,mysql" alt="tech stack" />
