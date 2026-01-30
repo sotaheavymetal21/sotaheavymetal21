@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sotaheavymetal21&fontSiz
   e=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Server-side%20%26%20AWS%20Engineer&descAlignY=52&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Python+%7C+Go+%7C+AWS+Specialist;Building+Scalable+Backend+Systems;SSO%2FMFA+%26+SaaS+Governance+Expert;Active+Tech+Writer+on+Qiita)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+sotaheavymetal21+%F0%9F%91%8B;Python+%7C+Go+%7C+AWS+Engineer;Active+Tech+Writer+on+Qiita)](https://git.io/typing-svg)
 
   [![Qiita Posts](https://qiita-badge.apiapi.app/s/sotaheavymetal21/posts.svg)](http://qiita.com/sotaheavymetal21)
   [![Profile Views](https://komarev.com/ghpvc/?username=sotaheavymetal21&color=blueviolet&style=flat-square)](https://github.com/sotaheavymetal21)
