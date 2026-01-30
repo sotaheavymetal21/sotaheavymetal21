@@ -14,12 +14,12 @@
 
   ## 🛠️ Tech Stack
 
-  **Backend:** Python • Go • Django • FastAPI • Gin
-  **Frontend（Learning）:** React • Next.js • TypeScript
-  **Cloud & IaC:** AWS • CloudFormation • Docker
-  **Databases:** MySQL • PostgreSQL • MongoDB • OpenSearch
-  **DevOps:** GitHub Actions • Nginx • CI/CD
-  **Other:** Claude • Claude Code • Cursor • Comet • NotebookLM • Gemini
+**Backend:** Python • Go • Django • FastAPI • Gin  
+**Frontend（Learning）:** React • Next.js • TypeScript  
+**Cloud & IaC:** AWS • CloudFormation • Docker  
+**Databases:** MySQL • PostgreSQL • MongoDB • OpenSearch  
+**DevOps:** GitHub Actions • Nginx • CI/CD  
+**Other:** Claude • Claude Code • Cursor • Comet • NotebookLM • Gemini
 
   <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,aws,docker,linux,mysql" alt="tech stack" />
@@ -27,14 +27,14 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="tech stack" />
   </p>
 
-  🔐 Implementing SSO/MFA & SaaS governance at scale
-  ☁️ AWS Operations & IaC with CloudFormation | Pursuing professional certs
-  📝 Active technical writer on Qiita (Python, Go, AWS, Certification Guides)
+🔐 Implementing SSO/MFA & SaaS governance at scale  
+☁️ AWS Operations & IaC with CloudFormation | Pursuing professional certs  
+📝 Active technical writer on Qiita (Python, Go, AWS, Certification Guides)
 
   ## 📜 Certifications
 
-  **AWS:** SCS • SAA • DVA • SOA
-  **IPA:** AP • FE • Information Security Management
+**AWS:** SCS • SAA • DVA • SOA  
+**IPA:** AP • FE • Information Security Management
 
   ## 📊 GitHub Stats
 
