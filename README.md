@@ -37,13 +37,6 @@
   ## 📊 GitHub Stats
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sotaheavymetal21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_col
-  or=70A5FD&icon_color=70A5FD&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotaheavymetal21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117
-  &title_color=70A5FD&text_color=FFFFFF" height="165"/>
-  </p>
-
-  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotaheavymetal21&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117"
   width="800"/>
   </p>
