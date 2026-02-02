@@ -37,11 +37,6 @@
   ## 📊 GitHub Stats
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sotaheavymetal21&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117"
-  width="800"/>
-  </p>
-
-  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotaheavymetal21&theme=tokyonight" width="800"/>
   </p>
 
