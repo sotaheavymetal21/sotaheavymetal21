@@ -45,15 +45,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sotaheavymetal21&theme=tokyonight" width="400"/>
   </p>
 
-  ## 🐍 Contribution Snake
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/output/github-snake-dark.svg"
-  />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/output/github-snake-dark.svg" />
-  </picture>
-
   ## 📈 3D Contribution Calendar
 
   <p align="center">
