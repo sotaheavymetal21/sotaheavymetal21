@@ -15,17 +15,13 @@
 **Backend:** Python • Go • Django REST Framework • FastAPI • Gin  
 **Cloud:** AWS • CloudFormation  
 **Databases:** MySQL • PostgreSQL
-**DevOps:** Docker • GitHub Actions • Nginx • CI/CD  
-**AI & Tools:** Claude • Gemini • Claude Code • Cursor • NotebookLM • Comet
+**DevOps:** Docker • GitHub Actions • Nginx • CI/CD
+**AI & Tools:** Claude • Gemini • Claude Code • Cursor • Comet
 
   <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,aws,docker,linux,mysql" alt="tech stack" />
   <img src="https://skillicons.dev/icons?i=postgresql,git,github,githubactions,nginx" alt="tech stack" />
   </p>
-
-🔐 Implementing SSO/MFA & SaaS governance at scale  
-☁️ AWS Operations & IaC with CloudFormation | Pursuing professional certs  
-📝 Active technical writer on Qiita (Python, Go, AWS, Certification Guides)
 
   ## 📜 Certifications
 
