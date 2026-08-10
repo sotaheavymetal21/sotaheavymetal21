@@ -54,59 +54,30 @@ Forward Deployment は自分にとって新しい領域で、まだ始まった�
 
 <div align="center">
 
+<!--
+  Commas inside a srcset URL must stay percent-encoded: srcset is a
+  comma-separated candidate list, so a literal comma truncates the URL and
+  skillicons renders only the first icon.
+-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,typescript,python,rust,ruby,nextjs,fastapi,django&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Ctypescript%2Cpython%2Crust%2Cruby%2Cnextjs%2Cfastapi%2Cdjango&theme=dark">
   <img alt="Go, TypeScript, Python, Rust, Ruby, Next.js, FastAPI, Django" src="https://skillicons.dev/icons?i=go,typescript,python,rust,ruby,nextjs,fastapi,django&theme=light">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails,aws,docker,terraform,postgres,mysql,redis,githubactions&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails%2Caws%2Cdocker%2Cterraform%2Cpostgres%2Cmysql%2Credis%2Cgithubactions&theme=dark">
   <img alt="Rails, AWS, Docker, Terraform, PostgreSQL, MySQL, Redis, GitHub Actions" src="https://skillicons.dev/icons?i=rails,aws,docker,terraform,postgres,mysql,redis,githubactions&theme=light">
 </picture>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/assets/stack-light.svg">
+  <img alt="Stack map: languages, frameworks, data and platform" src="https://raw.githubusercontent.com/sotaheavymetal21/sotaheavymetal21/main/assets/stack-dark.svg" width="860">
+</picture>
+
 </div>
-
-```mermaid
-flowchart LR
-    subgraph LANG["◤ LANGUAGES ◥"]
-        direction TB
-        A1["Go"]:::lang
-        A2["TypeScript"]:::lang
-        A3["Python"]:::lang
-        A4["Rust · Ruby"]:::lang
-    end
-
-    subgraph FRAME["◤ FRAMEWORKS ◥"]
-        direction TB
-        B1["Gin · GORM"]:::frame
-        B2["Next.js · React"]:::frame
-        B3["FastAPI · Django REST"]:::frame
-        B4["Rails · Hotwire"]:::frame
-    end
-
-    subgraph DATA["◤ DATA ◥"]
-        direction TB
-        C1["PostgreSQL"]:::data
-        C2["MySQL"]:::data
-        C3["Redis · Sidekiq"]:::data
-        C4["Chroma · Ollama"]:::data
-    end
-
-    subgraph PLAT["◤ PLATFORM ◥"]
-        direction TB
-        D1["AWS"]:::plat
-        D2["Docker"]:::plat
-        D3["Terraform · Nginx"]:::plat
-        D4["GitHub Actions"]:::plat
-    end
-
-    LANG ==> FRAME ==> DATA ==> PLAT
-
-    classDef lang  fill:#0B1220,stroke:#7DCFFF,stroke-width:1.4px,color:#7DCFFF
-    classDef frame fill:#0B1220,stroke:#BB9AF7,stroke-width:1.4px,color:#BB9AF7
-    classDef data  fill:#0B1220,stroke:#9ECE6A,stroke-width:1.4px,color:#9ECE6A
-    classDef plat  fill:#0B1220,stroke:#FF9E64,stroke-width:1.4px,color:#FF9E64
-```
 
 ---
 
