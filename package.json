@@ -1,0 +1,15 @@
+{
+  "name": "sotaheavymetal21-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generators for the sotaheavymetal21 GitHub profile README assets",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test 'scripts/lib/*.test.mjs'",
+    "generate": "node scripts/generate-assets.mjs",
+    "sync:qiita": "node scripts/sync-qiita.mjs"
+  }
+}
