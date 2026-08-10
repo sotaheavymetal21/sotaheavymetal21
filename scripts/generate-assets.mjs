@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import { fetchGitHubStats, fetchQiitaArticles } from './lib/fetch-stats.mjs';
 import { renderHero } from './lib/render-hero.mjs';
 import { renderTelemetry } from './lib/render-telemetry.mjs';
+import { looksScopeLimited } from './lib/stats-guard.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const STATS_FILE = resolve(ROOT, 'data/stats.json');
@@ -61,14 +62,24 @@ async function main() {
   if (!github) console.warn('GitHub stats unavailable — reusing committed values.');
   if (!articles) console.warn('Qiita stats unavailable — reusing committed values.');
 
+  const scopeLimited = github !== null && looksScopeLimited(github, fallback);
+  if (scopeLimited) {
+    console.warn(
+      'GitHub token cannot read restricted contributions — keeping committed counts. ' +
+        'Set a PROFILE_TOKEN secret (classic PAT, read:user) to refresh them.',
+    );
+  }
+
+  const usableGitHub = scopeLimited ? null : github;
+
   const stats = {
-    contributions: github?.contributions ?? Number(fallback.contributions ?? 0),
-    commits: github?.commits ?? Number(fallback.commits ?? 0),
+    contributions: usableGitHub?.contributions ?? Number(fallback.contributions ?? 0),
+    commits: usableGitHub?.commits ?? Number(fallback.commits ?? 0),
     privateContributions:
-      github?.privateContributions ?? Number(fallback.privateContributions ?? 0),
+      usableGitHub?.privateContributions ?? Number(fallback.privateContributions ?? 0),
     articles: articles?.length ?? Number(fallback.articles ?? 0),
     certifications: CERTIFICATION_COUNT,
-    syncedAt: github || articles ? today() : String(fallback.syncedAt ?? today()),
+    syncedAt: usableGitHub || articles ? today() : String(fallback.syncedAt ?? today()),
   };
 
   await mkdir(ASSETS_DIR, { recursive: true });
