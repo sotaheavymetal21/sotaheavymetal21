@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url';
 
 import { fetchGitHubStats, fetchQiitaArticles } from './lib/fetch-stats.mjs';
 import { renderHero } from './lib/render-hero.mjs';
+import { renderStack } from './lib/render-stack.mjs';
 import { renderTelemetry } from './lib/render-telemetry.mjs';
 import { looksScopeLimited } from './lib/stats-guard.mjs';
 
@@ -34,6 +35,26 @@ const HERO = Object.freeze({
   role: 'FORWARD DEPLOYED ENGINEER',
   affiliation: 'AI SHIFT, INC. — CYBERAGENT GROUP  //  TOKYO, JAPAN',
 });
+
+/** Layered view of the stack, drawn from public repositories and articles. */
+const STACK = Object.freeze([
+  { title: 'LANGUAGES', accent: 'cyan', items: ['Go', 'TypeScript', 'Python', 'Rust', 'Ruby'] },
+  {
+    title: 'FRAMEWORKS',
+    accent: 'magenta',
+    items: ['Gin · GORM', 'Next.js · React', 'FastAPI', 'Django REST', 'Rails · Hotwire'],
+  },
+  {
+    title: 'DATA',
+    accent: 'green',
+    items: ['PostgreSQL', 'MySQL', 'Redis · Sidekiq', 'Chroma · Ollama', 'SQLAlchemy'],
+  },
+  {
+    title: 'PLATFORM',
+    accent: 'orange',
+    items: ['AWS', 'Docker', 'Terraform', 'Nginx', 'GitHub Actions'],
+  },
+]);
 
 const VARIANTS = /** @type {const} */ (['dark', 'light']);
 
@@ -88,6 +109,9 @@ async function main() {
   await Promise.all([
     ...VARIANTS.map((variant) =>
       writeFile(resolve(ASSETS_DIR, `hero-${variant}.svg`), renderHero(HERO, variant)),
+    ),
+    ...VARIANTS.map((variant) =>
+      writeFile(resolve(ASSETS_DIR, `stack-${variant}.svg`), renderStack(STACK, variant)),
     ),
     ...VARIANTS.map((variant) =>
       writeFile(resolve(ASSETS_DIR, `telemetry-${variant}.svg`), renderTelemetry(stats, variant)),
