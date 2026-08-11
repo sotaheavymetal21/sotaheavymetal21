@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="208" viewBox="0 0 860 208" role="img" aria-label="GitHub and Qiita activity telemetry">
-  <title>telemetry — 1,665 contributions, 838 commits, 79 articles</title>
+  <title>telemetry — 1,667 contributions, 839 commits, 79 articles</title>
 
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; }
@@ -74,7 +74,7 @@
   <g>
     <rect x="16" y="24" width="3" height="14" fill="#7DCFFF" class="pulse"/>
     <text x="28" y="35" class="head" fill="#C0CAF5">TELEMETRY</text>
-    <text x="844" y="35" class="meta" fill="#565F89">SYNCED 2026-08-10</text>
+    <text x="844" y="35" class="meta" fill="#565F89">SYNCED 2026-08-11</text>
   </g>
 
   
@@ -84,7 +84,7 @@
     <path class="bracket" style="animation-delay:0.00s" d="M16 70 L16 58 L28 58 M200.5 58 L212.5 58 L212.5 70 M212.5 158 L212.5 170 L200.5 170 M28 170 L16 170 L16 158" fill="none" stroke="#7DCFFF" stroke-width="1.6" stroke-linecap="square"/>
     <text x="114.25" y="84" class="label" fill="#565F89">CONTRIBUTIONS</text>
     <text x="114.25" y="128" class="value" style="animation-delay:0.00s" fill="#7DCFFF"
-          filter="url(#neon-glow)">1,665</text>
+          filter="url(#neon-glow)">1,667</text>
     <text x="114.25" y="152" class="caption" fill="#565F89">last 12 months</text>
   </g>
   <g class="panel">
@@ -93,7 +93,7 @@
     <path class="bracket" style="animation-delay:0.85s" d="M226.5 70 L226.5 58 L238.5 58 M411 58 L423 58 L423 70 M423 158 L423 170 L411 170 M238.5 170 L226.5 170 L226.5 158" fill="none" stroke="#BB9AF7" stroke-width="1.6" stroke-linecap="square"/>
     <text x="324.75" y="84" class="label" fill="#565F89">COMMITS</text>
     <text x="324.75" y="128" class="value" style="animation-delay:0.85s" fill="#BB9AF7"
-          filter="url(#neon-glow)">838</text>
+          filter="url(#neon-glow)">839</text>
     <text x="324.75" y="152" class="caption" fill="#565F89">791 private</text>
   </g>
   <g class="panel">
