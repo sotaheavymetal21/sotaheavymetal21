@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="268" viewBox="0 0 860 268" role="img" aria-label="LANGUAGES: Go, TypeScript, Python, Rust, Ruby. FRAMEWORKS: Gin · GORM, Next.js · React, FastAPI, Django REST, Rails · Hotwire. DATA: PostgreSQL, MySQL, Redis · Sidekiq, Chroma · Ollama, SQLAlchemy. PLATFORM: AWS, Docker, Terraform, Nginx, GitHub Actions">
-  <title>LANGUAGES: Go, TypeScript, Python, Rust, Ruby. FRAMEWORKS: Gin · GORM, Next.js · React, FastAPI, Django REST, Rails · Hotwire. DATA: PostgreSQL, MySQL, Redis · Sidekiq, Chroma · Ollama, SQLAlchemy. PLATFORM: AWS, Docker, Terraform, Nginx, GitHub Actions</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="268" viewBox="0 0 860 268" role="img" aria-label="LANGUAGES: Go, TypeScript, Python, Ruby. FRAMEWORKS: Gin · GORM, FastAPI, Django REST, Rails. DATA: PostgreSQL, MySQL, SQLAlchemy. CLOUD · OPS: AWS, Google Cloud, OCI, Docker · Nginx, GitHub Actions">
+  <title>LANGUAGES: Go, TypeScript, Python, Ruby. FRAMEWORKS: Gin · GORM, FastAPI, Django REST, Rails. DATA: PostgreSQL, MySQL, SQLAlchemy. CLOUD · OPS: AWS, Google Cloud, OCI, Docker · Nginx, GitHub Actions</title>
 
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; text-anchor: middle; }
@@ -65,13 +65,7 @@
       <rect x="16" y="188" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="16" y="188" width="2.5" height="26" rx="1" fill="#7DCFFF" opacity="0.9"/>
-      <text x="113.5" y="205" class="item" fill="#C0CAF5">Rust</text>
-    </g>
-    <g>
-      <rect x="16" y="220" width="195" height="26" rx="3"
-            fill="#12182280" stroke="#233044" stroke-width="1"/>
-      <rect x="16" y="220" width="2.5" height="26" rx="1" fill="#7DCFFF" opacity="0.9"/>
-      <text x="113.5" y="237" class="item" fill="#C0CAF5">Ruby</text>
+      <text x="113.5" y="205" class="item" fill="#C0CAF5">Ruby</text>
     </g>
   </g>
   <g>
@@ -91,25 +85,19 @@
       <rect x="227" y="124" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="227" y="124" width="2.5" height="26" rx="1" fill="#BB9AF7" opacity="0.9"/>
-      <text x="324.5" y="141" class="item" fill="#C0CAF5">Next.js · React</text>
+      <text x="324.5" y="141" class="item" fill="#C0CAF5">FastAPI</text>
     </g>
     <g>
       <rect x="227" y="156" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="227" y="156" width="2.5" height="26" rx="1" fill="#BB9AF7" opacity="0.9"/>
-      <text x="324.5" y="173" class="item" fill="#C0CAF5">FastAPI</text>
+      <text x="324.5" y="173" class="item" fill="#C0CAF5">Django REST</text>
     </g>
     <g>
       <rect x="227" y="188" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="227" y="188" width="2.5" height="26" rx="1" fill="#BB9AF7" opacity="0.9"/>
-      <text x="324.5" y="205" class="item" fill="#C0CAF5">Django REST</text>
-    </g>
-    <g>
-      <rect x="227" y="220" width="195" height="26" rx="3"
-            fill="#12182280" stroke="#233044" stroke-width="1"/>
-      <rect x="227" y="220" width="2.5" height="26" rx="1" fill="#BB9AF7" opacity="0.9"/>
-      <text x="324.5" y="237" class="item" fill="#C0CAF5">Rails · Hotwire</text>
+      <text x="324.5" y="205" class="item" fill="#C0CAF5">Rails</text>
     </g>
   </g>
   <g>
@@ -135,19 +123,7 @@
       <rect x="438" y="156" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="438" y="156" width="2.5" height="26" rx="1" fill="#9ECE6A" opacity="0.9"/>
-      <text x="535.5" y="173" class="item" fill="#C0CAF5">Redis · Sidekiq</text>
-    </g>
-    <g>
-      <rect x="438" y="188" width="195" height="26" rx="3"
-            fill="#12182280" stroke="#233044" stroke-width="1"/>
-      <rect x="438" y="188" width="2.5" height="26" rx="1" fill="#9ECE6A" opacity="0.9"/>
-      <text x="535.5" y="205" class="item" fill="#C0CAF5">Chroma · Ollama</text>
-    </g>
-    <g>
-      <rect x="438" y="220" width="195" height="26" rx="3"
-            fill="#12182280" stroke="#233044" stroke-width="1"/>
-      <rect x="438" y="220" width="2.5" height="26" rx="1" fill="#9ECE6A" opacity="0.9"/>
-      <text x="535.5" y="237" class="item" fill="#C0CAF5">SQLAlchemy</text>
+      <text x="535.5" y="173" class="item" fill="#C0CAF5">SQLAlchemy</text>
     </g>
   </g>
   <g>
@@ -155,7 +131,7 @@
           fill="#FF9E64" opacity="0.14"/>
     <rect x="649" y="54" width="195" height="26" rx="3"
           fill="none" stroke="#FF9E64" stroke-width="1.2" opacity="0.85"/>
-    <text x="746.5" y="71" class="head" fill="#FF9E64">PLATFORM</text>
+    <text x="746.5" y="71" class="head" fill="#FF9E64">CLOUD · OPS</text>
     
     <g>
       <rect x="649" y="92" width="195" height="26" rx="3"
@@ -167,19 +143,19 @@
       <rect x="649" y="124" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="649" y="124" width="2.5" height="26" rx="1" fill="#FF9E64" opacity="0.9"/>
-      <text x="746.5" y="141" class="item" fill="#C0CAF5">Docker</text>
+      <text x="746.5" y="141" class="item" fill="#C0CAF5">Google Cloud</text>
     </g>
     <g>
       <rect x="649" y="156" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="649" y="156" width="2.5" height="26" rx="1" fill="#FF9E64" opacity="0.9"/>
-      <text x="746.5" y="173" class="item" fill="#C0CAF5">Terraform</text>
+      <text x="746.5" y="173" class="item" fill="#C0CAF5">OCI</text>
     </g>
     <g>
       <rect x="649" y="188" width="195" height="26" rx="3"
             fill="#12182280" stroke="#233044" stroke-width="1"/>
       <rect x="649" y="188" width="2.5" height="26" rx="1" fill="#FF9E64" opacity="0.9"/>
-      <text x="746.5" y="205" class="item" fill="#C0CAF5">Nginx</text>
+      <text x="746.5" y="205" class="item" fill="#C0CAF5">Docker · Nginx</text>
     </g>
     <g>
       <rect x="649" y="220" width="195" height="26" rx="3"

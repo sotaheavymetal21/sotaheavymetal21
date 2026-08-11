@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="232" viewBox="0 0 860 232" role="img" aria-label="SOTAHEAVYMETAL21 — FORWARD DEPLOYED ENGINEER">
-  <title>SOTAHEAVYMETAL21 — FORWARD DEPLOYED ENGINEER</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="232" viewBox="0 0 860 232" role="img" aria-label="sotaheavymetal21 — FORWARD DEPLOYED ENGINEER">
+  <title>sotaheavymetal21 — FORWARD DEPLOYED ENGINEER</title>
 
   <style>
     text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; text-anchor: middle; }
@@ -76,15 +76,15 @@
   </g>
 
   <g>
-    <text class="mark ghost-cyan"    x="430" y="108" fill="#0B7FA8"    opacity="0.85">SOTAHEAVYMETAL21</text>
-    <text class="mark ghost-magenta" x="430" y="108" fill="#7C3AED" opacity="0.85">SOTAHEAVYMETAL21</text>
-    <text class="mark"               x="430" y="108" fill="#1F2328" filter="url(#hero-glow)">SOTAHEAVYMETAL21</text>
+    <text class="mark ghost-cyan"    x="430" y="108" fill="#0B7FA8"    opacity="0.85">sotaheavymetal21</text>
+    <text class="mark ghost-magenta" x="430" y="108" fill="#7C3AED" opacity="0.85">sotaheavymetal21</text>
+    <text class="mark"               x="430" y="108" fill="#1F2328" filter="url(#hero-glow)">sotaheavymetal21</text>
   </g>
 
   <rect x="240" y="130" width="380" height="1" fill="url(#beam)"/>
 
   <text class="role" x="430" y="158" fill="#0B7FA8" filter="url(#hero-glow)">FORWARD DEPLOYED ENGINEER</text>
-  <text class="meta" x="430" y="184" fill="#656D76">AI SHIFT, INC. — CYBERAGENT GROUP  //  TOKYO, JAPAN</text>
+  <text class="meta" x="430" y="184" fill="#656D76">TOKYO, JAPAN</text>
 
   <rect x="18" y="222" width="824" height="2" rx="1" fill="url(#rule)" opacity="0.9"/>
 
