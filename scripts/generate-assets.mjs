@@ -31,28 +31,28 @@ const QIITA_USER = 'sotaheavymetal21';
 const CERTIFICATION_COUNT = 7;
 
 const HERO = Object.freeze({
-  wordmark: 'SOTAHEAVYMETAL21',
+  wordmark: 'sotaheavymetal21',
   role: 'FORWARD DEPLOYED ENGINEER',
-  affiliation: 'AI SHIFT, INC. — CYBERAGENT GROUP  //  TOKYO, JAPAN',
+  affiliation: 'TOKYO, JAPAN',
 });
 
-/** Layered view of the stack, drawn from public repositories and articles. */
+/** Layered view of the stack. Lists only what is actually worked with. */
 const STACK = Object.freeze([
-  { title: 'LANGUAGES', accent: 'cyan', items: ['Go', 'TypeScript', 'Python', 'Rust', 'Ruby'] },
+  { title: 'LANGUAGES', accent: 'cyan', items: ['Go', 'TypeScript', 'Python', 'Ruby'] },
   {
     title: 'FRAMEWORKS',
     accent: 'magenta',
-    items: ['Gin · GORM', 'Next.js · React', 'FastAPI', 'Django REST', 'Rails · Hotwire'],
+    items: ['Gin · GORM', 'FastAPI', 'Django REST', 'Rails'],
   },
   {
     title: 'DATA',
     accent: 'green',
-    items: ['PostgreSQL', 'MySQL', 'Redis · Sidekiq', 'Chroma · Ollama', 'SQLAlchemy'],
+    items: ['PostgreSQL', 'MySQL', 'SQLAlchemy'],
   },
   {
-    title: 'PLATFORM',
+    title: 'CLOUD · OPS',
     accent: 'orange',
-    items: ['AWS', 'Docker', 'Terraform', 'Nginx', 'GitHub Actions'],
+    items: ['AWS', 'Google Cloud', 'OCI', 'Docker · Nginx', 'GitHub Actions'],
   },
 ]);
 
